@@ -1,6 +1,12 @@
 # helloworld
-public class helloworld {
+/**
+ * Created by Saki on 2017/1/30.
+ */
+public class Helloxqq {
     public static void main(String[] args) {
-        System.out.println("不准动 不准改 我是真理");
+
+        String string = "helloxqq";
+
+        System.out.println(string);
     }
 }
