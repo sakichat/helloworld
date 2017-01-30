@@ -1,0 +1,8 @@
+public class Test {
+    public static void main(String[] args) {
+        new Test().run();
+    }
+    public void run() {
+        System.out.println("第二次pull");
+    }
+}
