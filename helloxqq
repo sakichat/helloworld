@@ -5,7 +5,7 @@
 public class Helloxqq {
     public static void main(String[] args) {
 
-        String string = "helloxqq";
+        String string = "helloxqqxqqxqq";
 
         System.out.println(string);
     }
